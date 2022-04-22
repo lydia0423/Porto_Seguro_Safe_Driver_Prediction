@@ -1,0 +1,7 @@
+1. About
+2. Business Goal
+	- company
+	- customer
+3. Action perform
+4. Expectation
+5. Outcome
